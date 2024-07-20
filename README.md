@@ -7,3 +7,6 @@ After assing the blocks export as uncompressed Json and Run the software.
 - Convert, if is everything okay it should give a message if not try reduncing the size or changing the constrait axis
 
 
+# Acknowledgements
+- Credits to obi for the base chunk saving and loading functionality.
+- [Lucas Dower](https://github.com/LucasDower) for the obj2schematic.
