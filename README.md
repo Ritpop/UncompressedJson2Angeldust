@@ -9,4 +9,5 @@ After assing the blocks export as uncompressed Json and Run the software.
 
 # Acknowledgements
 - Credits to obi for the base chunk saving and loading functionality.
+- Hummm for the hex code of the blocks.
 - [Lucas Dower](https://github.com/LucasDower) for the obj2schematic.
